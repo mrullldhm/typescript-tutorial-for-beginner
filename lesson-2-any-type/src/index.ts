@@ -11,5 +11,3 @@ level = 'a';
 function render (document) {
     console.log(document);
 }
-
-
